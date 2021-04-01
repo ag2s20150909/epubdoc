@@ -4,7 +4,7 @@
 
 本版本
 
-[http://www.idpf.org/doc_library/epub/OPS_2.0.1_draft.htm](/OPS_2.0.1_draft.md)
+[http://www.idpf.org/doc_library/epub/OPS_2.0.1_draft.htm](/20/spec/OPS_2.0.1_draft.md)
 
 最新版本
 
